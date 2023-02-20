@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"Fernet",
+			"pymongo"
+		],
+		"python.analysis.typeCheckingMode": "strict",
+		"docwriter.progress.trackTypes": true,
+		"docwriter.progress.trackClasses": true,
+		"docwriter.style": "NumPy",
+		"docwriter.progress.trackMethods": true,
+		"docwriter.progress.trackFunctions": true,
+	}
+}

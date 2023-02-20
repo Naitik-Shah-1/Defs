@@ -1,0 +1,9 @@
+re
+string
+typing
+datetime
+pymongo
+cryptography
+prompt_toolkit
+setuptools
+wheel

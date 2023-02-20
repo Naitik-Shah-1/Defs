@@ -1,0 +1,14 @@
+License.md
+setup.py
+src/defs/__init__.py
+src/defs/dbs.py
+src/defs/encryption.py
+src/defs/formatting.py
+src/defs/login.py
+src/defs/math.py
+src/defs/time_props.py
+src/defs/unc.py
+src/defs.egg-info/PKG-INFO
+src/defs.egg-info/SOURCES.txt
+src/defs.egg-info/dependency_links.txt
+src/defs.egg-info/top_level.txt

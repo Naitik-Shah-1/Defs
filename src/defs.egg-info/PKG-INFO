@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: defs
+Version: 0.0.1
+Summary: This is a pkg containing basic definitions which are used often.
+Author: Naitik Shah
+Author-email: NaitikShah.Work@outlook.com
+Maintainer: Naitik Shah
+Maintainer-email: NaitikShah.Work@outlook.com
+License-File: License.md
